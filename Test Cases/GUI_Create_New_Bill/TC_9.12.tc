@@ -25,7 +25,7 @@
       <name>actual_file</name>
    </variable>
    <variable>
-      <defaultValue>'D:\\db.sql'</defaultValue>
+      <defaultValue>'C:\\fakepath\\db.sql'</defaultValue>
       <description></description>
       <id>5c1e806a-eba8-4dff-a0f3-f9dfe016165d</id>
       <masked>false</masked>

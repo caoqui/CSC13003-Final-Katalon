@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h4_New bill</name>
+   <name>button_Sign in</name>
    <tag></tag>
-   <elementGuidId>0d12617c-b875-41bc-beb7-e62e7925ac23</elementGuidId>
+   <elementGuidId>fb65a4c9-c5b4-4910-8c28-8488d1702f92</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(11) > a > div.menu-info > h4.control-sidebar-subheading</value>
+         <value>button.btn.btn-primary.btn-block</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='control-sidebar-home-tab']/ul/li[11]/a/div/h4</value>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h4</value>
-      <webElementGuid>52eff4a3-9473-4865-839e-eed8cc12d47d</webElementGuid>
+      <value>button</value>
+      <webElementGuid>cd97491e-e294-4924-b59b-8125e95d23dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>62040e91-b83e-4b21-b4d3-c9d0cbf46319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>control-sidebar-subheading</value>
-      <webElementGuid>e884a5c8-52cc-4263-ae27-50c7d6385449</webElementGuid>
+      <value>btn btn-primary btn-block</value>
+      <webElementGuid>a6b22e49-c26d-495a-8971-ba5ba306fa57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>New bill</value>
-      <webElementGuid>22846947-76a7-40fd-884e-5ed5e76d1438</webElementGuid>
+      <value>Sign in</value>
+      <webElementGuid>c5b8e51e-98e2-4e95-bcdc-093acdcbf407</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;control-sidebar-home-tab&quot;)/ul[@class=&quot;control-sidebar-menu&quot;]/li[11]/a[1]/div[@class=&quot;menu-info&quot;]/h4[@class=&quot;control-sidebar-subheading&quot;]</value>
-      <webElementGuid>9acd7d87-1ca2-4aba-a279-db2ed2f8773d</webElementGuid>
+      <value>/html[1]/body[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body login-card-body&quot;]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
+      <webElementGuid>f8be528a-a757-4df6-878b-f63edc7f1a4f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='control-sidebar-home-tab']/ul/li[11]/a/div/h4</value>
-      <webElementGuid>3e886e53-ae01-415b-a258-e23414f4c752</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>a4cf2995-9ff3-4562-93fe-a3b8faa7ddbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New piggy bank'])[1]/following::h4[1]</value>
-      <webElementGuid>f3bc9d76-d1df-43ef-9365-ac8a3844f380</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::button[1]</value>
+      <webElementGuid>352d6495-6e0e-447b-b613-21b536d47019</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New category'])[1]/following::h4[2]</value>
-      <webElementGuid>408474ea-e032-423b-9fe6-062bec874e1f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='demo'])[1]/following::button[1]</value>
+      <webElementGuid>3863e182-8424-4fe5-900d-b6113e284229</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New rule'])[1]/preceding::h4[1]</value>
-      <webElementGuid>aa283f26-20ff-4b7b-9d4d-a5aaba34ae0f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I forgot my password'])[1]/preceding::button[1]</value>
+      <webElementGuid>7cf58b24-b09b-4c24-8491-a04b6bdf9e71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New recurring transaction'])[1]/preceding::h4[2]</value>
-      <webElementGuid>bdb557fb-bb1b-4a2f-9b22-5c26f4521508</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='New bill']/parent::*</value>
-      <webElementGuid>43430ffb-240a-4b44-8939-8ee8dc58ec39</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
+      <webElementGuid>b603572d-851b-4db6-9dda-4147a1aae941</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[11]/a/div/h4</value>
-      <webElementGuid>72a638e0-4ab0-4a0c-8ffa-7c3acd4ea40a</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>73d4d35d-f1fc-47f4-b1c9-462bcee3d7bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h4[(text() = 'New bill' or . = 'New bill')]</value>
-      <webElementGuid>f68c3a58-2334-4ac5-a3e1-196c752c3af1</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>6dffed0f-584a-4e70-bf87-5a472f656f14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

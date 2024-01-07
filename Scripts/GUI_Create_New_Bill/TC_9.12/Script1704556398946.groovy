@@ -29,10 +29,12 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Bill/TC_9.12/span_d
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Bill/TC_9.12/h4_New bill'))
 
-WebUI.setText(findTestObject('GUI_Create_New_Bill/TC_9.12/input_Attachments_attachments'), 'D:\\db.sql')
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Bill/TC_9.12/input_Attachments_attachments'), 'D:\\db.sql')
 
-actual_file = WebUI.getAttribute(findTestObject('Page_Create new bill  Bills  Firefly III/input_Attachments_attachments'), 
-    'XPath')
+actual_file = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Bill/TC_9.12/input_Attachments_attachments'), 
+    'value')
 
 WebUI.verifyEqual(actual_file, expected_file)
+
+WebUI.closeBrowser()
 

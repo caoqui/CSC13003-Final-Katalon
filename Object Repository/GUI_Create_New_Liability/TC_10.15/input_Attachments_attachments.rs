@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Attachments_attachments</name>
    <tag></tag>
-   <elementGuidId>6d88d20b-cbeb-4d2b-bf5a-dfdf2686bbf4</elementGuidId>
+   <elementGuidId>6eb3c206-e015-4566-9119-5682f025c452</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>467745e9-d305-435b-a293-efe0eccc265c</webElementGuid>
+      <webElementGuid>09251e33-6496-435d-a79d-15b61b82196f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4221ad1d-3138-4862-9770-6e9d6d85f973</webElementGuid>
+      <webElementGuid>8c8fac1a-b9a9-4f27-b28f-51f0c1274eae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>e4feca23-1e6f-415d-9ead-3496768969a5</webElementGuid>
+      <webElementGuid>18d60f03-f173-406f-b4f9-56a2d82100f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>attachments[]</value>
-      <webElementGuid>325e5925-e90d-46d9-b957-1d918f266d2a</webElementGuid>
+      <webElementGuid>5c8c3bac-02cb-440f-976d-cae39a887e08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_attachments</value>
-      <webElementGuid>bfa488ec-45ff-43c7-9819-7962cc103de2</webElementGuid>
+      <webElementGuid>f430b0f9-efea-4b5f-bcbb-2d40e7a2991c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>cc19b590-873f-4a9d-a81f-a541b9b0f0bf</webElementGuid>
+      <webElementGuid>f63ae6ff-3237-40c0-9615-27d880b0408a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_attachments&quot;)</value>
-      <webElementGuid>11152432-50a8-4b49-b62e-b4c728134522</webElementGuid>
+      <webElementGuid>d07421b0-0593-4304-b080-6a723b3ba805</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ffInput_attachments']</value>
-      <webElementGuid>689eb93a-bca6-4124-a774-a4c1f515b0ec</webElementGuid>
+      <webElementGuid>ba46fb3d-5291-4a2d-a791-4634b50d94f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='attachments[]_holder']/div/input</value>
-      <webElementGuid>e1756e12-5231-4dd4-83a9-91a54bc8f54b</webElementGuid>
+      <webElementGuid>16c23aa6-7e23-4c03-8a43-808e45b955ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div[4]/div/input</value>
-      <webElementGuid>2e3161bc-ae43-4397-b434-a4177aa5cbf7</webElementGuid>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>7a0350e2-2f76-466e-80f8-d15b3650f6f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file' and @name = 'attachments[]' and @id = 'ffInput_attachments']</value>
-      <webElementGuid>29981109-5ec8-4510-b0b3-b055aaaf727d</webElementGuid>
+      <webElementGuid>65bb2eb2-f762-4fd2-a74b-3ff7b98391ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

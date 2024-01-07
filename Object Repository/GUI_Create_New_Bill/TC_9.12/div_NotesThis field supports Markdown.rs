@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e38ae75d-02f4-4c11-bc0f-8b1d3fa9a750</webElementGuid>
+      <webElementGuid>47f1661c-8960-47d5-aa2f-9ad36571d8e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-group</value>
-      <webElementGuid>e3e9813a-2732-4d26-9067-c757f0666bd4</webElementGuid>
+      <webElementGuid>a0568e9c-de50-4b90-a286-1cf893128754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>notes_holder</value>
-      <webElementGuid>9d98e1e6-bac6-49dc-bd1f-7bde72b0615d</webElementGuid>
+      <webElementGuid>bd3cc899-24fa-4836-ba94-947e2ee6979a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@ Notes
 This field supports Markdown.
 
 </value>
-      <webElementGuid>fb6c11a7-71b3-4f6c-b315-e820a6f7a955</webElementGuid>
+      <webElementGuid>164e80e3-7cc8-46a7-9e3b-2f7289de458a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@ This field supports Markdown.
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;notes_holder&quot;)</value>
-      <webElementGuid>0de7cda4-7689-4392-8d8d-aa7cfb41bcf5</webElementGuid>
+      <webElementGuid>28862299-68f4-4ff7-b8b3-9fc2d1e29ffb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@ This field supports Markdown.
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='notes_holder']</value>
-      <webElementGuid>b36e4d8c-3e84-4bb1-9806-52ca3fabd75c</webElementGuid>
+      <webElementGuid>bb9ce29e-76cb-46c1-9c69-43c721f1734b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@ This field supports Markdown.
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='store']/div/div[2]/div/div[2]/div[3]</value>
-      <webElementGuid>433d8650-7235-46cc-a2f7-25bf63546c6a</webElementGuid>
+      <webElementGuid>36b17283-3d4f-4bda-ae37-cdbbd1f2bd36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@ This field supports Markdown.
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Extension date'])[1]/following::div[4]</value>
-      <webElementGuid>ea024fda-f4e1-4620-a09e-42205844544e</webElementGuid>
+      <webElementGuid>92b46bbb-e8c4-4294-883e-fd93dfd955f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@ This field supports Markdown.
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[1]/following::div[8]</value>
-      <webElementGuid>bbc973f5-5d74-45bd-9790-ef11e1c2d8a4</webElementGuid>
+      <webElementGuid>4fa48dcf-80e5-48f1-ba4c-c35dacc28227</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@ This field supports Markdown.
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div[3]</value>
-      <webElementGuid>8fa75c8f-fddf-4f06-a282-c9edc9ae5ef2</webElementGuid>
+      <webElementGuid>e692cd5a-cef7-4c4f-a1e5-3889c5ecc24b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +120,6 @@ Notes
 This field supports Markdown.
 
 ')]</value>
-      <webElementGuid>84522f68-6cd9-43be-86df-873c5f3e0ca2</webElementGuid>
+      <webElementGuid>38e8a0c2-9291-4a20-9e08-be5f05ad0fd2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,3 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.firefly-iii.org/')
+
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.15/a_Demo'))
+
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.15/button_Sign in'))
+
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.15/span_demofirefly_fa fa-plus-circle'))
+
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.15/h4_New liability'))
+
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.15/input_Attachments_attachments'), 'D:\\db.sql')
+
+actual_file = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.15/input_Attachments_attachments'), 
+    'value')
+
+WebUI.verifyEqual(actual_file, expected_file)
+
+WebUI.closeBrowser()
+
