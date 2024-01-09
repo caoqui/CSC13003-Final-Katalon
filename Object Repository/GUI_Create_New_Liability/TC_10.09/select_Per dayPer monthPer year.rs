@@ -3,7 +3,7 @@
    <description></description>
    <name>select_Per dayPer monthPer year</name>
    <tag></tag>
-   <elementGuidId>baafa28e-dd06-404f-87ef-b8ea4b09aef2</elementGuidId>
+   <elementGuidId>fe80671a-26ed-4cd4-b420-ad26eb4d2f19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d0e2a38f-fb7d-4951-a9ea-ea9f0c420bca</webElementGuid>
+      <webElementGuid>5e0eecd2-fedd-4bc4-95fe-8c1dbfcc7fa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a78c80be-9aa4-49e8-8c63-abac7895f165</webElementGuid>
+      <webElementGuid>edd88cc7-81fb-4695-aea9-4f25a582d4f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>interest_period</value>
-      <webElementGuid>c6e0317c-ae19-4e5f-863b-e5e86ae0dfcf</webElementGuid>
+      <webElementGuid>ed581b78-1185-42a4-a535-b502d574ee69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_interest_period</value>
-      <webElementGuid>f720f272-6a9e-488c-838a-df572244d2c5</webElementGuid>
+      <webElementGuid>204048d4-0246-4063-ae5e-e230fb5d5c4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>92154adc-4d54-489c-aece-a094d0f9ebc6</webElementGuid>
+      <webElementGuid>c946f2dd-842a-40fc-96ad-8624cba03e3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cd1e045f-3921-4d42-a552-44a03eb97879</webElementGuid>
+      <webElementGuid>937e0880-996e-4701-9f7d-c9458f2a1940</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Per dayPer monthPer year</value>
-      <webElementGuid>03f50b06-4a24-40c2-ab18-10fee5bd7888</webElementGuid>
+      <webElementGuid>fd8cc89c-0893-488e-a8d6-1703d7521749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_interest_period&quot;)</value>
-      <webElementGuid>57948532-fd36-4fc9-a4df-7cd3ed8ac183</webElementGuid>
+      <webElementGuid>cfecfaf7-69d0-4e34-b1b4-8b378dce68f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='ffInput_interest_period']</value>
-      <webElementGuid>9c0b16ae-2b3b-49c3-b2c4-42cf8ab16a0b</webElementGuid>
+      <webElementGuid>202748c8-2948-4958-a680-aab9e682fa8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='interest_period_holder']/div/select</value>
-      <webElementGuid>14e7e066-a618-4cbd-ac72-296ed8a231a5</webElementGuid>
+      <webElementGuid>98c3ccd8-7986-4dcd-9100-a6a403279709</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest period'])[1]/following::select[1]</value>
-      <webElementGuid>a7fd58e5-609d-46ec-8062-34e19d5fa3e0</webElementGuid>
+      <webElementGuid>2e9394e1-3b18-47f8-9784-caf40abbb79c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::select[1]</value>
-      <webElementGuid>90baa676-6f80-4d37-bffe-efea4a940a6b</webElementGuid>
+      <webElementGuid>a02440e7-700d-4a04-92c8-7b5eec43e3b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional fields'])[1]/preceding::select[1]</value>
-      <webElementGuid>bbd03bf4-9e2f-4146-8f8c-f1c186a78187</webElementGuid>
+      <webElementGuid>d2585fd3-059d-4e2b-aac0-3ff8226152b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IBAN'])[1]/preceding::select[1]</value>
-      <webElementGuid>9486264f-7463-443b-8a20-99fb169ba66c</webElementGuid>
+      <webElementGuid>93590b3a-50a0-463a-bb9a-e7661e85198f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/select</value>
-      <webElementGuid>0a40d4aa-35b9-4c65-92da-a4d1700c4284</webElementGuid>
+      <webElementGuid>ad9b3ad6-8d96-4597-9141-db65e030c658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'interest_period' and @id = 'ffInput_interest_period' and (text() = 'Per dayPer monthPer year' or . = 'Per dayPer monthPer year')]</value>
-      <webElementGuid>087dfbef-23a5-4066-977a-16f6fe2da582</webElementGuid>
+      <webElementGuid>0fbdfcdd-c87c-44db-8c07-554c9944ed71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

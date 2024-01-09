@@ -29,7 +29,9 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.11/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.11/input_Name_name'), 'Aston Martin Nice')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.11/input_Name_name'), '')
+
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.11/input_Name_name'), 'Astons Mar3c pikaka')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.11/input_I owe amount_opening_balance'), 
     '13')

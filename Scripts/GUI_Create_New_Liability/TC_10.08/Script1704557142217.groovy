@@ -29,8 +29,7 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.08/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.08/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.08/input_Interest_interest'), 
-    '10')
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.08/input_Interest_interest'), '10')
 
 actual_interest = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.08/input_Interest_interest'), 
     'value')

@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/h4_New bill'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/input_Name_name'), 'Mercury Moe')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/input_Name_name'), 'Mercury Chigas3')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/select_Euro ()US Dollar ()'), 
     '1', true)
@@ -41,7 +41,7 @@ WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/input_Maximum amount_amount_max'), '17')
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/input_Date_date'), '1/8/2023')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/input_Date_date'), '01/08/2023')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.1/select_dailyweeklymonthlyquarterlyevery hal_79c7c6'), 
     'weekly', true)

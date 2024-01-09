@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.08/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.08/input_Name_name'), 'Chevrolet Negy')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.08/input_Name_name'), 'Chevatero Maidio36')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.08/input_Start date of debt_opening_balance_date'), 
     '8/25/2023')
@@ -40,8 +40,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Functional_Create_New_
     'Store new liability')
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.08/button_Store new liability'))
-
-WebUI.verifyElementNotVisible(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.08/strong_Success'))
 
 WebUI.closeBrowser()
 

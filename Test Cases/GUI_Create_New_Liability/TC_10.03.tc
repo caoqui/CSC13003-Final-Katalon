@@ -25,7 +25,7 @@
       <name>actual_currency</name>
    </variable>
    <variable>
-      <defaultValue>'8'</defaultValue>
+      <defaultValue>'1'</defaultValue>
       <description></description>
       <id>58dd974b-56e2-4618-a691-e04375be9577</id>
       <masked>false</masked>

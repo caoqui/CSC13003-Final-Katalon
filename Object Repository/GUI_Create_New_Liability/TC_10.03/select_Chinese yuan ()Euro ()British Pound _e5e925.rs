@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Euro ()British Pound ()Hungarian for_48a2bd</name>
+   <name>select_Chinese yuan ()Euro ()British Pound _e5e925</name>
    <tag></tag>
-   <elementGuidId>8e279fe3-6a33-406c-a8f3-5385d8705cb8</elementGuidId>
+   <elementGuidId>26b010b7-c45c-449c-a965-bcc2d55bb801</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>8377798d-36c0-474c-a3cd-b92766e4d34b</webElementGuid>
+      <webElementGuid>3ed907cb-d964-43b3-8078-51172b7075e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>1dbc877f-6d70-4079-9083-038a57ddee89</webElementGuid>
+      <webElementGuid>381a6607-a4cc-43d2-838f-b8f510b2c1aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>currency_id</value>
-      <webElementGuid>ff3fbd7b-58ce-4d40-b88b-b0637f4ec7d1</webElementGuid>
+      <webElementGuid>2d53d9e0-526d-46bc-adac-b0109ae53436</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_currency_id</value>
-      <webElementGuid>80d8f147-a1d4-4f2c-9d78-f2d01c2b8956</webElementGuid>
+      <webElementGuid>712522d3-83f8-4ebc-b017-178e53d7ac3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8684c38c-bea8-4bc8-891e-d7483b1c1e15</webElementGuid>
+      <webElementGuid>a38521a4-3d87-4e8a-add8-e521afea4b3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6cf21a36-a31f-4a6e-890a-076305900c39</webElementGuid>
+      <webElementGuid>df429f3e-94df-4563-b19f-21863044cf4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Euro (€)British Pound (£)Hungarian forint (Ft)US Dollar ($)</value>
-      <webElementGuid>3224d247-9a3d-4074-a016-8a059bc5fbc7</webElementGuid>
+      <value>Chinese yuan (¥)Euro (€)British Pound (£)Hungarian forint (Ft)US Dollar ($)</value>
+      <webElementGuid>01b15079-f0a6-4d4a-aa3e-0ea5c9743beb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_currency_id&quot;)</value>
-      <webElementGuid>63857197-8bcb-476d-8252-aff17f8b3b0e</webElementGuid>
+      <webElementGuid>44be3a8d-2a52-4e8f-89c2-fb7655bcbad8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='ffInput_currency_id']</value>
-      <webElementGuid>22d03f5a-bb99-402e-8672-e796eb331cec</webElementGuid>
+      <webElementGuid>23f386c1-e478-4410-ac35-c5750431cef6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='currency_id_holder']/div/select</value>
-      <webElementGuid>555c4784-ed7a-4012-a023-8203b8823c70</webElementGuid>
+      <webElementGuid>45356f4d-1014-4846-8956-2b024fe87c11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::select[1]</value>
-      <webElementGuid>79150200-693f-4130-b098-a26d80b02439</webElementGuid>
+      <webElementGuid>49b2e5eb-7146-4b63-bf06-03ae0d76461a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::select[1]</value>
-      <webElementGuid>f96ebe68-972e-4e51-94b9-883aea6a53d4</webElementGuid>
+      <webElementGuid>25d29c8d-6340-4385-bbaa-82d024818abb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Liability type'])[1]/preceding::select[1]</value>
-      <webElementGuid>71876214-05d7-4775-9600-ea9e4ea1b65e</webElementGuid>
+      <webElementGuid>39ec82db-4a12-4f92-8f71-2a8ec3bfa2e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I owe amount'])[1]/preceding::select[2]</value>
-      <webElementGuid>6f342629-d3fe-4186-9aea-a1b8a1a92161</webElementGuid>
+      <webElementGuid>49eeccba-f0ab-4bfe-903c-0a86befb7bcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,14 +134,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>41da0610-3697-478e-8f8b-182b4eadf999</webElementGuid>
+      <webElementGuid>8fa78bf9-804b-43cf-b92a-881dbb94f4cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@name = 'currency_id' and @id = 'ffInput_currency_id' and (text() = 'Euro (€)British Pound (£)Hungarian forint (Ft)US Dollar ($)' or . = 'Euro (€)British Pound (£)Hungarian forint (Ft)US Dollar ($)')]</value>
-      <webElementGuid>89a6b59e-0521-42d1-8613-c9c7f999683b</webElementGuid>
+      <value>//select[@name = 'currency_id' and @id = 'ffInput_currency_id' and (text() = 'Chinese yuan (¥)Euro (€)British Pound (£)Hungarian forint (Ft)US Dollar ($)' or . = 'Chinese yuan (¥)Euro (€)British Pound (£)Hungarian forint (Ft)US Dollar ($)')]</value>
+      <webElementGuid>7b925709-e989-4e9f-963f-9c41b884f273</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

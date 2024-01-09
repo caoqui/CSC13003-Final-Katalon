@@ -29,7 +29,9 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.10/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.10/input_Name_name'), 'Mitsubishi Baka')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.10/input_Name_name'), '')
+
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.10/input_Name_name'), 'Mitsubishib 440 Bakasanu')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.10/input_I owe amount_opening_balance'), 
     '5')

@@ -31,5 +31,10 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.4/
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.4/input_Maximum amount_amount_max'), 'abc')
 
+actual_maximum = WebUI.getAttribute(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.4/input_Maximum amount_amount_max'), 
+    'value')
+
+WebUI.verifyEqual(actual_maximum, expected_maximum)
+
 WebUI.closeBrowser()
 

@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.02/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.02/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.02/input_Name_name'), 'Ford')
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.02/input_Name_name'), 'Aston Martin')
 
 actual_name = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.02/input_Name_name'), 
     'value')

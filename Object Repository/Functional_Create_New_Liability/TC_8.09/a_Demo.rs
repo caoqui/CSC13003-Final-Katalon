@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fdb41f46-1b72-4823-8ff4-3133ac04096c</webElementGuid>
+      <webElementGuid>38b897a4-bcf6-4681-beaa-b720bbba09b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link me-lg-3</value>
-      <webElementGuid>88fa9929-2254-4640-a0ac-2674d57ae843</webElementGuid>
+      <webElementGuid>16c92a70-90fe-4a6d-813e-5b0d093077c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://demo.firefly-iii.org/</value>
-      <webElementGuid>1e3a6d0c-c421-400c-9343-dbfc0c3ff094</webElementGuid>
+      <webElementGuid>5bfc79bc-9bd9-4f25-8aac-59d364940735</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Demo</value>
-      <webElementGuid>f6fd07f8-06bf-4c57-b4ac-463d2d1392c7</webElementGuid>
+      <webElementGuid>111796fd-4949-4164-afad-da68df09127d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarResponsive&quot;)/ul[@class=&quot;navbar-nav ms-auto me-4 my-3 my-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link me-lg-3&quot;]</value>
-      <webElementGuid>84805841-5968-49ae-8d18-3e18afef5794</webElementGuid>
+      <webElementGuid>8cbb0e53-f140-4216-9ca7-a46b98edcf17</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarResponsive']/ul/li/a</value>
-      <webElementGuid>98473e69-91f3-42a6-8a32-83e73106d372</webElementGuid>
+      <webElementGuid>451cdd0b-24f4-474e-b485-0165d422e67c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Demo')]</value>
-      <webElementGuid>b5966e32-ac9f-4bb0-acc5-4dd50ba11f1f</webElementGuid>
+      <webElementGuid>909b5985-639e-4091-96c9-311fe903265f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::a[1]</value>
-      <webElementGuid>2d1284dd-76dd-4c67-9213-62509c7fab6f</webElementGuid>
+      <webElementGuid>2e6d3bce-5e14-43e0-a72f-5f24f090ce72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firefly III'])[1]/following::a[1]</value>
-      <webElementGuid>b7be6646-2f2d-408a-aede-bb59951a11ea</webElementGuid>
+      <webElementGuid>6a2f7418-3bfe-4b33-a8f5-3f7e7e586634</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/preceding::a[1]</value>
-      <webElementGuid>3a2b7bdf-04dc-47e1-b255-fae13d464f49</webElementGuid>
+      <webElementGuid>f4ec2b45-0b98-467d-8505-be91885a3909</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::a[2]</value>
-      <webElementGuid>289206be-c194-424f-993c-288a501d0e44</webElementGuid>
+      <webElementGuid>f44f3f51-05f6-46fc-aa7c-90f1208eb924</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Demo']/parent::*</value>
-      <webElementGuid>bc3f4773-220d-4b9b-823b-b5f7c9795900</webElementGuid>
+      <webElementGuid>5c6b77c4-f75e-411d-8ee9-76afd27616af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://demo.firefly-iii.org/')]</value>
-      <webElementGuid>dc0e06dd-0d9d-4e2f-bc14-e93b8b9b8cfd</webElementGuid>
+      <webElementGuid>78892685-4156-4d32-8f67-225708d5eba8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>e43d469b-097d-471f-a9d9-0981b872b2bd</webElementGuid>
+      <webElementGuid>ccec6a3b-0c5c-427a-b5ff-882cfd7be5b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://demo.firefly-iii.org/' and (text() = 'Demo' or . = 'Demo')]</value>
-      <webElementGuid>334986e5-5690-461a-8b60-bb602046c707</webElementGuid>
+      <webElementGuid>614cdaea-42a0-4940-81d0-954b358d2cc1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

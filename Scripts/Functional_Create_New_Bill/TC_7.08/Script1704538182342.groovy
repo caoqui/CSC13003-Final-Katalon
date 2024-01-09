@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.8/
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.8/h4_New bill'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.8/input_Name_name'), '1278')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.8/input_Name_name'), '1235')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.8/input_Minimum amount_amount_min'), '1')
 

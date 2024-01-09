@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.10
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.10/h4_New bill'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.10/input_Name_name'), 'joe hanh')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.10/input_Name_name'), 'joe thanh')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.10/input_Maximum amount_amount_max'), '3')
 

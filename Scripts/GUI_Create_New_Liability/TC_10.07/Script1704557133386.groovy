@@ -21,18 +21,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.firefly-iii.org/')
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.07/a_Demo'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.07/a_Demo'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.07/button_Sign in'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.07/button_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.07/span_demofirefly_fa fa-plus-circle'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.07/a'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.07/h4_New liability'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.07/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.07/input_Start date of debt_opening_balance_date'), 
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.07/input_Start date of debt_opening_balance_date'), 
     '07/06/2023')
 
-actual_date = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.07/input_Start date of debt_opening_balance_date'), 
+actual_date = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.07/input_Start date of debt_opening_balance_date'), 
     'value')
 
 WebUI.verifyEqual(actual_date, expected_date)

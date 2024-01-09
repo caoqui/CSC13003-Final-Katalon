@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.2/
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.2/h4_New bill'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.2/input_Name_name'), 'Nissan Jor')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.2/input_Name_name'), 'Nissan Mue21')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.2/select_Euro ()US Dollar ()'), 
     '1', true)

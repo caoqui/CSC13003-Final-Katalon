@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.16/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.16/button_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.16/span_demofirefly_fa fa-plus-circle'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.16/a'))
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.16/h4_New liability'))
 

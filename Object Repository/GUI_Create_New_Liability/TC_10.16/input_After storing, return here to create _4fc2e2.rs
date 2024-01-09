@@ -3,7 +3,7 @@
    <description></description>
    <name>input_After storing, return here to create _4fc2e2</name>
    <tag></tag>
-   <elementGuidId>832eef21-bcf7-4456-8790-05051a6ac3af</elementGuidId>
+   <elementGuidId>99e65423-0998-45a2-8729-2a374bde5d7d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fbb939e2-32ff-4e09-873f-d887e4939a81</webElementGuid>
+      <webElementGuid>d5fbec5d-de0c-45dc-ab2d-1cbf4ea9f3db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>867e7740-9471-4e0f-9a1f-bc45ac1d5deb</webElementGuid>
+      <webElementGuid>392650c8-54a6-4eb7-ad94-a9a5661bdc72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>create_another</value>
-      <webElementGuid>fa8e5652-eda6-4915-b7ee-6f978d3bcc0b</webElementGuid>
+      <webElementGuid>a4fda660-cf19-4f9f-96fe-80c9c299f98f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>account_return_to_form</value>
-      <webElementGuid>e9b55d1c-dae9-41e5-9e44-281ee40176af</webElementGuid>
+      <webElementGuid>f93d93ff-5807-4e8a-bf82-0cdcce4fe9ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>376df2c9-796b-47d3-a8b2-30818c3df95b</webElementGuid>
+      <webElementGuid>7e07e1f4-dba3-4191-9cac-3c74602dfcf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;account_return_to_form&quot;)</value>
-      <webElementGuid>25c8b28e-7869-4372-b90d-01628f22be36</webElementGuid>
+      <webElementGuid>6086e502-c1d0-41a5-9bb2-0bd07aff1788</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='account_return_to_form']</value>
-      <webElementGuid>7aaf4b10-341a-47b9-a09c-6c7a099036c8</webElementGuid>
+      <webElementGuid>669e0173-4bdb-4af2-bd99-8d0d8c49ba9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='store']/div[2]/div/div/div[2]/div/div/div/label/input</value>
-      <webElementGuid>fae35881-a242-4528-aafc-42b16d5ed1f4</webElementGuid>
+      <webElementGuid>102d6845-cd4e-4d73-a113-8addfa439084</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/div/label/input</value>
-      <webElementGuid>b946d4a1-47c2-4ac3-a49f-8d0935bd475d</webElementGuid>
+      <webElementGuid>39f9d3a7-e016-4605-8fc2-0b77437f0402</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'create_another' and @id = 'account_return_to_form']</value>
-      <webElementGuid>da923fa4-ddb1-4528-b278-d5fee2600d8b</webElementGuid>
+      <webElementGuid>afe0f832-76b0-471b-9758-622653fa6a40</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

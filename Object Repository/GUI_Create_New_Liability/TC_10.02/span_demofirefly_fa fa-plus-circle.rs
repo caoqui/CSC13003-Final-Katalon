@@ -3,7 +3,7 @@
    <description></description>
    <name>span_demofirefly_fa fa-plus-circle</name>
    <tag></tag>
-   <elementGuidId>4d7a847a-ebc9-4a61-af91-27cded1dd6de</elementGuidId>
+   <elementGuidId>9949b0a9-e20b-4a4f-80f8-4bebe33e922a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0a9d6ffb-385b-4b91-93c4-8589440d81c3</webElementGuid>
+      <webElementGuid>9092311e-22a2-46b6-9983-55197ef38c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-plus-circle</value>
-      <webElementGuid>beb25e99-f633-4ba4-adb9-24a2a3f2c66a</webElementGuid>
+      <webElementGuid>4ddfcbe7-53ee-41cc-ae8f-161a4f1c7d7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-toggle&quot;)/a[1]/span[@class=&quot;fa fa-plus-circle&quot;]</value>
-      <webElementGuid>a906a2bf-4527-46ad-bb33-d41fa509b8c6</webElementGuid>
+      <webElementGuid>a932f7d5-8a34-41d5-bdd1-44265f2ca081</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sidebar-toggle']/a/span</value>
-      <webElementGuid>0588e07f-6ee5-4b03-b334-723f0628c21b</webElementGuid>
+      <webElementGuid>1b5f7c1f-0761-4478-9976-3d477590b35a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span</value>
-      <webElementGuid>f2f8cbb9-b6bc-4ba6-9ce1-f56ec521fd2b</webElementGuid>
+      <webElementGuid>67046af5-c78f-4c5a-bc0c-a86e329ee6b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>h4_New liability</name>
    <tag></tag>
-   <elementGuidId>efbddb1a-ce45-4404-98b8-ef778b0866a8</elementGuidId>
+   <elementGuidId>ca7edb64-edc7-47a8-81ed-04bf66cdf2ac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>e606c3b2-a946-4a0e-af9c-1e8c944c8bb3</webElementGuid>
+      <webElementGuid>0ddb7c23-a606-4363-9cfb-3beff0f2531d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>control-sidebar-subheading</value>
-      <webElementGuid>df1655c1-ebc9-4aa3-974c-b4c8112ac97b</webElementGuid>
+      <webElementGuid>040aa52f-7781-4fac-b736-17615a47054f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New liability</value>
-      <webElementGuid>90263e2b-8ce1-4dae-b343-712284af1c72</webElementGuid>
+      <webElementGuid>c68e17f6-b98b-4d38-a66f-9659702f7f2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;control-sidebar-home-tab&quot;)/ul[@class=&quot;control-sidebar-menu&quot;]/li[7]/a[1]/div[@class=&quot;menu-info&quot;]/h4[@class=&quot;control-sidebar-subheading&quot;]</value>
-      <webElementGuid>d85a1642-b200-4575-aa9c-1f2f471384c9</webElementGuid>
+      <webElementGuid>1ab9c08b-8334-44bf-8f63-326db8661865</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='control-sidebar-home-tab']/ul/li[7]/a/div/h4</value>
-      <webElementGuid>039ac92f-ed0d-4ff9-b614-fbb94d7a067f</webElementGuid>
+      <webElementGuid>1bb2f2b3-6f2e-4b6a-aced-243fa67667a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New revenue account'])[1]/following::h4[1]</value>
-      <webElementGuid>cbfc101e-f801-4089-be66-d04848ae3048</webElementGuid>
+      <webElementGuid>9d2072bc-b340-49f7-a6ab-c6e1847f42b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New expense account'])[1]/following::h4[2]</value>
-      <webElementGuid>8740dbd3-83cd-417e-849a-e6b9b08ef0ac</webElementGuid>
+      <webElementGuid>caa11039-a4eb-4bfd-8a6e-91d5147f2924</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New budget'])[1]/preceding::h4[1]</value>
-      <webElementGuid>959be8e3-192c-4c25-ad6f-bdd43a2c5221</webElementGuid>
+      <webElementGuid>d8976330-270a-4c53-b1d7-7c1a4a746493</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New category'])[1]/preceding::h4[2]</value>
-      <webElementGuid>ce3f2477-cebd-40a8-b5e8-5199d4e3471d</webElementGuid>
+      <webElementGuid>0cf84dab-f304-48f5-9772-69097246036a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='New liability']/parent::*</value>
-      <webElementGuid>89359419-a51d-4687-9f47-6c6c18882291</webElementGuid>
+      <webElementGuid>c13c9f5a-c8c0-47f7-b513-9d2c3824ae55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/a/div/h4</value>
-      <webElementGuid>4a704dee-ad93-450f-8e5b-9ff115f1fd81</webElementGuid>
+      <webElementGuid>5b235925-28d9-4b62-a3a0-3ea3bce58e91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'New liability' or . = 'New liability')]</value>
-      <webElementGuid>850bbdf7-aacf-4a8e-9579-ae43d984b331</webElementGuid>
+      <webElementGuid>ded011f1-8101-45e8-80f8-120ceb656083</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

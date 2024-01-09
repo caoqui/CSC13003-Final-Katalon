@@ -25,7 +25,7 @@
       <name>actual_name</name>
    </variable>
    <variable>
-      <defaultValue>'Ford'</defaultValue>
+      <defaultValue>'Aston Martin'</defaultValue>
       <description></description>
       <id>95ad5f1b-7284-419d-943c-0c2cda7e5cd3</id>
       <masked>false</masked>

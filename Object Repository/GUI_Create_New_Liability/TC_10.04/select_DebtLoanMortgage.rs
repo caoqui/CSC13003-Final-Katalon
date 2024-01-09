@@ -3,7 +3,7 @@
    <description></description>
    <name>select_DebtLoanMortgage</name>
    <tag></tag>
-   <elementGuidId>679e23b7-7c59-49a6-ba4f-c45d7c79864e</elementGuidId>
+   <elementGuidId>5756234f-3551-40bd-8e16-1141f8917cfc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>271ec91f-8777-4fe3-a75d-ac2e352737ba</webElementGuid>
+      <webElementGuid>191c3c91-3596-421c-aae7-0e92cba4a331</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>dba10739-037b-4a28-84ed-aec3c4d8b8fe</webElementGuid>
+      <webElementGuid>8a806f00-892c-48be-8a1b-d0e1494214d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>liability_type_id</value>
-      <webElementGuid>f694b953-5514-471c-9475-5fdb8dc576e0</webElementGuid>
+      <webElementGuid>e67434dc-9256-49fc-87ca-d22cfd928b1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_liability_type_id</value>
-      <webElementGuid>96d15fd7-6b3d-4dc6-94e4-0321054fe078</webElementGuid>
+      <webElementGuid>a23809e7-0c44-411e-ab80-59256d732004</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>341c3aeb-da85-4dea-891a-5413e16a5351</webElementGuid>
+      <webElementGuid>b41fc610-7b1c-417f-8f08-ff773b4b52a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>418d648c-b72a-486d-aefe-ba33d51c38ca</webElementGuid>
+      <webElementGuid>fa43b2ff-390e-44d1-aae8-0cb6b5c83fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>DebtLoanMortgage</value>
-      <webElementGuid>06c5e96a-aacd-49b0-9f84-15256ec4a8c6</webElementGuid>
+      <webElementGuid>b46aca54-26c5-4e41-8dde-26d4118fed40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_liability_type_id&quot;)</value>
-      <webElementGuid>855066fa-c7c3-4107-aec1-f08617782b42</webElementGuid>
+      <webElementGuid>da20942e-847b-43fb-bc48-127d1dcd416e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='ffInput_liability_type_id']</value>
-      <webElementGuid>5bf5fc46-3b1a-4cc1-bac3-360358ba664f</webElementGuid>
+      <webElementGuid>51c89d10-b215-48ed-b444-148f1573f304</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='liability_type_id_holder']/div/select</value>
-      <webElementGuid>00e7d502-2bef-4a5a-b7fe-323100430bd0</webElementGuid>
+      <webElementGuid>b32df5ac-3149-46bb-81f6-cf85f5edb449</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Liability type'])[1]/following::select[1]</value>
-      <webElementGuid>0bedb7bc-0b61-4bbc-938d-63c55d871e13</webElementGuid>
+      <webElementGuid>14dd2e43-a103-44ff-a56d-88a22ab05d2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::select[2]</value>
-      <webElementGuid>8a38d0d4-fa2a-46eb-ba97-e529653a395f</webElementGuid>
+      <webElementGuid>4bcb35f4-f7ae-4ca2-b4d8-9be375a1ddd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I owe amount'])[1]/preceding::select[1]</value>
-      <webElementGuid>ed6ce358-3d48-47d1-92f4-76235166cacc</webElementGuid>
+      <webElementGuid>9f39972a-b4db-4d01-b984-4ad78ff78ae4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Liability in/out'])[1]/preceding::select[1]</value>
-      <webElementGuid>af72dbf0-3383-4053-9eff-7e9870b97f6f</webElementGuid>
+      <webElementGuid>910ea0ec-92b8-4e7a-aea8-3f3b70573572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/select</value>
-      <webElementGuid>a61ce90d-5a58-4b0d-95b7-1ff1de66ebb8</webElementGuid>
+      <webElementGuid>c7a8ded1-89d6-487e-a9af-be8a8c61d472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'liability_type_id' and @id = 'ffInput_liability_type_id' and (text() = 'DebtLoanMortgage' or . = 'DebtLoanMortgage')]</value>
-      <webElementGuid>fd603329-3920-49ca-b9ea-3cd8ed964d52</webElementGuid>
+      <webElementGuid>788410bc-bc42-4ebf-839c-15791c82ed80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,17 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.firefly-iii.org/')
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.10/a_Demo'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.10/a_Demo'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.10/button_Sign in'))
+WebUI.closeBrowser()
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.10/span_demofirefly_fa fa-plus-circle'))
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.10/h4_New liability'))
+WebUI.navigateToUrl('https://www.firefly-iii.org/')
 
-WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.10/input_IBAN_iban'), '143.129.200.52')
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.10/a_Demo'))
 
-actual_IBAN = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.10/input_IBAN_iban'), 
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.10/button_Sign in'))
+
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.10/span_demofirefly_fa fa-plus-circle'))
+
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.10/h4_New liability'))
+
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.10/input_IBAN_iban'), '99.163.174.2')
+
+actual_IBAN = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.10/input_IBAN_iban'), 
     'value')
 
 WebUI.verifyEqual(actual_IBAN, expected_IBAN)

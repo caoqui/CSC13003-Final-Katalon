@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.
 
 WebUI.verifyElementText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.7/button_Store new bill'), 'Store new bill')
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.7/input_Name_name'), 'Hoe hanhs')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.7/input_Name_name'), 'Hoe Nhinho112')
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.7/button_Store new bill'))
 

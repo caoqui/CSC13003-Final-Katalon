@@ -29,17 +29,20 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/input_Name_name'), 'Porsche Nico')
+WebUI.verifyElementText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/small_Create a new liability'), 
+    'Create a new liability')
+
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/input_Name_name'), 'Thinkara maysa4')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/input_I owe amount_opening_balance'), 
-    '8')
+    '12')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/input_Start date of debt_opening_balance_date'), 
-    '10/30/2023')
+    '09/09/2023')
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/button_Store new liability'))
 
-WebUI.verifyElementNotVisible(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/strong_Success'))
+WebUI.verifyElementNotVisible(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.09/div_CloseSuccessNew account Thinkara maysa stored'))
 
 WebUI.closeBrowser()
 

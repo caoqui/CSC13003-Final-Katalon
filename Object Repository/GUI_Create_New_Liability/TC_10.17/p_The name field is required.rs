@@ -3,7 +3,7 @@
    <description></description>
    <name>p_The name field is required</name>
    <tag></tag>
-   <elementGuidId>67a825b2-deb3-4747-8311-fc25be640f58</elementGuidId>
+   <elementGuidId>0bfcad80-295d-41ea-bca0-5f225cb865a8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>2161b082-d2a9-49e8-8423-47c429256368</webElementGuid>
+      <webElementGuid>835ff97a-e2df-4a6d-b293-1f6a292dc339</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-danger</value>
-      <webElementGuid>a7639d28-f143-4d56-95e4-1c2c821ec366</webElementGuid>
+      <webElementGuid>d5da6d5f-478a-4546-a0a8-76c4d4f971ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The name field is required.</value>
-      <webElementGuid>2e715759-724b-4fd5-927a-959551b665d7</webElementGuid>
+      <webElementGuid>b1d37515-eb3a-48d7-b904-f8de42b2b3d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;name_holder&quot;)/div[@class=&quot;col-sm-8&quot;]/p[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>e1866f17-1f67-461d-849e-491238bff215</webElementGuid>
+      <webElementGuid>ea336a3b-080e-4942-a572-0092cdafd44a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='name_holder']/div/p</value>
-      <webElementGuid>e4327db3-6a5c-4263-9a09-765a81dc389c</webElementGuid>
+      <webElementGuid>1c4675a9-1f12-40d0-bf50-68e42470cac4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::p[1]</value>
-      <webElementGuid>7f5d33d7-4c80-4916-9da2-6352f13648a1</webElementGuid>
+      <webElementGuid>7c5d8945-abed-4f8b-bc14-af02f1d02607</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory fields'])[1]/following::p[1]</value>
-      <webElementGuid>74365d0a-4b40-4815-9850-eecc57c97731</webElementGuid>
+      <webElementGuid>32c00a40-ff4e-4aa4-aa30-42f0864927d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/preceding::p[1]</value>
-      <webElementGuid>a72462e8-b9ef-48f6-9e41-55b72494da6b</webElementGuid>
+      <webElementGuid>ef1e75f4-b63a-40af-883b-975026624b46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Liability type'])[1]/preceding::p[2]</value>
-      <webElementGuid>0ba3336b-93f8-4eb3-986b-359bc97cb9c3</webElementGuid>
+      <webElementGuid>60d85e98-dd73-4a8d-9412-c3cfe55f07f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='The name field is required.']/parent::*</value>
-      <webElementGuid>ecca9a47-3463-4bcf-8317-525b9fee21fd</webElementGuid>
+      <webElementGuid>19d51b42-d52d-4c96-8d18-f104635ae3e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/p</value>
-      <webElementGuid>b5eb4541-906d-48b2-b35a-240347b146a5</webElementGuid>
+      <webElementGuid>a74adb30-2992-4876-a18c-bdd451fa3dea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'The name field is required.' or . = 'The name field is required.')]</value>
-      <webElementGuid>40874137-7b88-4446-a792-15af520394a2</webElementGuid>
+      <webElementGuid>00acb000-817c-43d0-a954-163abd3a5ac3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

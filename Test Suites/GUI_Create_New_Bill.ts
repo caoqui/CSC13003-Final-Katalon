@@ -10,20 +10,20 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>74db89a1-00ec-4d17-a0fa-34969daef173</testSuiteGuid>
+   <testSuiteGuid>73ff9043-b8e7-4540-a43a-8efd9442f865</testSuiteGuid>
    <testCaseLink>
-      <guid>f5b588ef-fc89-4fec-9f9f-937a481da2a3</guid>
+      <guid>4d6301ef-5c8a-4b9b-8c4b-1e39c8e226e5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.01</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ea4e54f7-4d96-42c8-8dc3-4b441688553f</guid>
+      <guid>0922c21e-cbc3-4b5c-969e-cc2af6c836c3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.02</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -38,11 +38,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>3418a505-34ea-46be-b561-280955b04632</guid>
+      <guid>fc1ed78f-eac7-48c7-8d40-e27e416505c0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.03</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -57,11 +57,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c8152a96-ab47-41be-acce-bbef787ede5b</guid>
+      <guid>d4fcc98d-ec3b-41cb-a527-056a2b7f5254</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.04</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -76,11 +76,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>7ca5bd11-3d55-49fa-bb26-e18bc3fd7899</guid>
+      <guid>effbd0cc-22ee-4d1e-a867-5fb7e437e054</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.05</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -95,11 +95,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f4ab4c53-dc6b-4853-b7eb-2177a2213800</guid>
+      <guid>22c96bb1-007a-4c20-9967-732679ec91cc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.06</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -114,11 +114,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>ccb7756b-8dbf-4588-8ebe-2095cde767a8</guid>
+      <guid>3ac0426f-6cf7-42d6-8f2b-e379e7cc3a74</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.07</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -133,11 +133,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b6ec16f1-cecb-4f5d-8474-a00d1c93635d</guid>
+      <guid>e78e020b-c587-4f01-beec-2422a14aeb03</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.08</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -152,11 +152,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>d9b9ab89-b3a2-4a44-8f46-8b0ea785f794</guid>
+      <guid>4d3cabc2-3ad3-4099-94f0-6dac0471d063</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.09</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -171,11 +171,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c392e1f1-8aa2-41bd-8e5e-2ec2959a9d7c</guid>
+      <guid>d5b5f8dd-9b0d-4435-8553-089177aaa1b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.10</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -190,11 +190,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>14ea7a84-f61e-48c5-ae90-05082951dd0f</guid>
+      <guid>57f94f2a-2498-449d-af06-67209adf6b08</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.11</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -209,11 +209,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>88c4167e-82c6-4831-8692-d927bcaf2160</guid>
+      <guid>3f1c0ee7-84a3-4e0b-8d06-727b461f1c5b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.12</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -228,11 +228,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>d8b5bc5e-98de-41d4-bc9c-89cd27b58da0</guid>
+      <guid>c4da9221-853f-497f-b651-62294e742172</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.13</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -247,11 +247,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>90c1759a-75dc-484c-b917-a56abbe30214</guid>
+      <guid>66504b0c-e097-4f30-98cb-746cf624c125</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.14</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -266,10 +266,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>a6c8bc2b-7018-4b36-834e-b39fd103a8ea</guid>
+      <guid>000c958b-c108-4c9b-9640-56e0601433c9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/GUI_Create_New_Bill/TC_9.15</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

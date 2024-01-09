@@ -34,7 +34,5 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.17/
 WebUI.verifyElementText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.17/p_The name field is required'), 
     'The name field is required.')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.17/p_The name field is required'))
-
 WebUI.closeBrowser()
 

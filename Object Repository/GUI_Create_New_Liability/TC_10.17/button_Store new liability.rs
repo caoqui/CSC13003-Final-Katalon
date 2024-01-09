@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Store new liability</name>
    <tag></tag>
-   <elementGuidId>41f60ba4-7e44-400b-9eb6-be8eff530682</elementGuidId>
+   <elementGuidId>091fdf00-ee5f-4ce9-90ba-13b2a1ac3d0f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8992d838-eab0-4787-a714-1b68c3a0c580</webElementGuid>
+      <webElementGuid>658b74b0-fae6-4c5f-817a-25ea1448e2d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>694786ce-771c-42aa-8cce-89aea1986af1</webElementGuid>
+      <webElementGuid>5c446887-6ef1-4070-9286-e0fff22a7bfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn pull-right btn-success</value>
-      <webElementGuid>e2cee3b9-bf1a-4f3b-a47b-186b2d45af4a</webElementGuid>
+      <webElementGuid>2c1d00be-84a7-40a8-95e7-222049d77f7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
 Store new liability
 </value>
-      <webElementGuid>277113cc-dc8d-47e3-9f75-0d9709c29bf5</webElementGuid>
+      <webElementGuid>88c7f669-e430-4c89-ac4a-6e377b381f08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@ Store new liability
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-footer&quot;]/button[@class=&quot;btn pull-right btn-success&quot;]</value>
-      <webElementGuid>59915940-929f-4070-a5ec-07d0bf791517</webElementGuid>
+      <webElementGuid>a7aa898a-958a-437f-8bf2-12d44d24c119</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@ Store new liability
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>74f06992-957c-463c-9311-e5aca8e43e7d</webElementGuid>
+      <webElementGuid>25420fab-c4c4-4b38-be05-62efac8a1173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@ Store new liability
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='store']/div[2]/div/div/div[3]/button</value>
-      <webElementGuid>843518ea-b557-4161-b9d1-dde17400b77a</webElementGuid>
+      <webElementGuid>f53fec1b-0366-470a-8331-23d1174ded97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@ Store new liability
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Return here'])[1]/following::button[1]</value>
-      <webElementGuid>f9ca7f39-c2c9-415d-9e16-5a6b4494c683</webElementGuid>
+      <webElementGuid>359a19c8-25e2-49fc-830f-47b48039cafc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@ Store new liability
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::button[1]</value>
-      <webElementGuid>064034f0-9a63-4823-a5e0-dd317c0c3c01</webElementGuid>
+      <webElementGuid>91864622-4358-4fae-a1af-df40ae98dcdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@ Store new liability
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firefly III'])[1]/preceding::button[1]</value>
-      <webElementGuid>31279eaa-3db0-4b0d-9d7a-7ab25413624d</webElementGuid>
+      <webElementGuid>ed32957e-4aaa-44b8-8476-8f3934d2ee44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@ Store new liability
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Store new liability']/parent::*</value>
-      <webElementGuid>7221d021-1902-4773-8def-15b319d87257</webElementGuid>
+      <webElementGuid>047c8d8f-ee1c-4108-b8cf-8f4153e34c2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@ Store new liability
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>f7c1521c-3732-4563-833a-f89aed2e7960</webElementGuid>
+      <webElementGuid>81342ed9-db62-43fd-8ab2-d9db8f2a5bd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +124,6 @@ Store new liability
 ' or . = '
 Store new liability
 ')]</value>
-      <webElementGuid>fbf5b2c7-680b-4e11-bccb-145a3ded61a0</webElementGuid>
+      <webElementGuid>0058fb1e-4b5a-4463-b4f9-fe9038669655</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

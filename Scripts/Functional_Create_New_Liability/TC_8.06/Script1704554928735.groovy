@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.06/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.06/input_Name_name'), '122')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.06/input_Name_name'), '1220101')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.06/input_I owe amount_opening_balance'), 
     '4')

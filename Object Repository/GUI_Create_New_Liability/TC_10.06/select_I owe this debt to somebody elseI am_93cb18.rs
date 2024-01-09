@@ -3,7 +3,7 @@
    <description></description>
    <name>select_I owe this debt to somebody elseI am_93cb18</name>
    <tag></tag>
-   <elementGuidId>2a961d6a-ce5f-481c-8739-2b5fadc46903</elementGuidId>
+   <elementGuidId>a79258a4-bed6-42f5-8bc8-d180da7bb2c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>00e1d4c4-f351-4bfb-880f-83a194ff1f78</webElementGuid>
+      <webElementGuid>e7314d16-7069-417c-b415-62a623cf3560</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>bf27c777-e188-4daf-bd65-6298f0c0436f</webElementGuid>
+      <webElementGuid>28bf108e-7dbe-45ea-8c61-87ff98a71172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>liability_direction</value>
-      <webElementGuid>77ad107c-9949-49b5-946f-cf148fa24111</webElementGuid>
+      <webElementGuid>5606621d-9965-4aaf-b891-8a437fcfe4da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_liability_direction</value>
-      <webElementGuid>7ea45bf6-750d-410d-9ae2-27d9f2799ff6</webElementGuid>
+      <webElementGuid>26745a05-c894-496c-baa7-65817a1fbffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>d90ec7c3-3c2a-4244-b102-14d095501ad4</webElementGuid>
+      <webElementGuid>b2461d3f-1991-4eca-b6b3-75816825b767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>022bc9d2-b64a-4f5e-a411-33b680163248</webElementGuid>
+      <webElementGuid>f1234fdf-bcd3-4572-bc0b-2df95fa31506</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>I owe this debt to somebody elseI am owed this debt</value>
-      <webElementGuid>c4174c0f-3925-4b0e-9e44-fa2b745642a8</webElementGuid>
+      <webElementGuid>aa348b2d-d5d8-4c4b-9de6-3851bf2baa81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_liability_direction&quot;)</value>
-      <webElementGuid>68d8ce4b-7413-4e85-b4ab-6ade411cc87a</webElementGuid>
+      <webElementGuid>40b8c1ae-c4bb-49eb-a7df-417430d93000</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='ffInput_liability_direction']</value>
-      <webElementGuid>f9bb2c2b-7f8f-4534-95b6-b21ca8bd9af4</webElementGuid>
+      <webElementGuid>153bb1db-e41a-4c91-86b2-7a802eea0fdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='liability_direction_holder']/div/select</value>
-      <webElementGuid>195f903a-2f66-4d3e-a118-61ae8cfeae35</webElementGuid>
+      <webElementGuid>1b1f1e9a-c7ed-4698-aaca-642b565ad69e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Liability in/out'])[1]/following::select[1]</value>
-      <webElementGuid>77cab5b5-5f47-49d8-8888-e734005b6cfa</webElementGuid>
+      <webElementGuid>c6c9947a-36c0-444e-9a41-b837349fcb1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I owe amount'])[1]/following::select[1]</value>
-      <webElementGuid>16578e7e-62f5-4345-a195-3af1fb1ccfbb</webElementGuid>
+      <webElementGuid>c28ae946-11de-4ce8-aefe-b789a6e5ad7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start date of debt'])[1]/preceding::select[1]</value>
-      <webElementGuid>0012fbf3-3681-4b9b-a10a-8dc3dcef0694</webElementGuid>
+      <webElementGuid>c377e9ee-3a69-4c4c-9e82-d3af83ab0348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest'])[1]/preceding::select[1]</value>
-      <webElementGuid>e19347fc-24e0-4ebd-925a-4da2eb0759b5</webElementGuid>
+      <webElementGuid>736c898a-bd7d-43ee-b83a-d7192fb83001</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/select</value>
-      <webElementGuid>71d0ad89-0154-463f-a7c2-b7abb23db195</webElementGuid>
+      <webElementGuid>a0d5ff0b-a471-47bb-a92c-ceba339819f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'liability_direction' and @id = 'ffInput_liability_direction' and (text() = 'I owe this debt to somebody elseI am owed this debt' or . = 'I owe this debt to somebody elseI am owed this debt')]</value>
-      <webElementGuid>2a372efd-f32f-42fe-a4ea-9e99a2efa4c7</webElementGuid>
+      <webElementGuid>34083fb3-c569-463c-beb7-3e8f01ba61f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,8 +29,10 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.12/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.12/h4_New liability'))
 
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.12/html_Create a new liability                _4aeb42'))
+
 WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.12/input_Account number_account_number'), 
-    '598-395-7263')
+    '513-549-0132')
 
 actual_account_number = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.12/input_Account number_account_number'), 
     'value')

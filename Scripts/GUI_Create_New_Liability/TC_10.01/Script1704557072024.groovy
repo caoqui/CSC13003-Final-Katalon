@@ -27,14 +27,7 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.01/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.01/span_demofirefly_fa fa-plus-circle'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.01/h4_New liability'), 
-    'New liability')
-
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.01/h4_New liability'))
-
-WebUI.rightClick(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.01/div_Apply_introjs-overlay'))
-
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.01/div_Apply_introjs-overlay'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.01/small_Create a new liability'), 
     'Create a new liability')

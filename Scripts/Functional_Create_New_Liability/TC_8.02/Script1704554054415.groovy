@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 WebUI.verifyElementText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.02/small_Create a new liability'), 
     'Create a new liability')
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.02/input_Name_name'), 'Cadillac Cogi')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.02/input_Name_name'), 'Cadillaces Coola5')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.02/select_Dansk krone (kr.)Euro ()British Poun_149727'), 
     '2', true)

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_I owe amount_opening_balance</name>
    <tag></tag>
-   <elementGuidId>c8433a1e-14a7-4a75-b3cb-26286bb74767</elementGuidId>
+   <elementGuidId>507b5b7a-e8f9-4773-97fa-4b743bffb264</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6210840b-14d2-4f62-b2a3-c02cea0ff7bb</webElementGuid>
+      <webElementGuid>981281bc-f40a-4051-b06e-7c87ae783cb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ecabeff6-47d5-41c6-9cbf-1026b27578e7</webElementGuid>
+      <webElementGuid>17c1ae39-52e3-4910-b086-eab44451be1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>c4de0b31-1ea3-4056-addc-fea0b790101d</webElementGuid>
+      <webElementGuid>47b93cd1-4751-4eb9-8c67-faee173f6b3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>opening_balance</value>
-      <webElementGuid>414bcacd-c962-43ff-bf3c-d24418f3572d</webElementGuid>
+      <webElementGuid>4ea26c9b-209c-448b-84af-ff098c3952c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_opening_balance</value>
-      <webElementGuid>db7ff3b1-a3f8-43b7-ba48-ccf347f45c95</webElementGuid>
+      <webElementGuid>7c9fa961-731d-428e-b834-f1ee068987f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>43d6eae4-d876-42ff-a623-03ff4dd9198f</webElementGuid>
+      <webElementGuid>9d9548c7-ead1-494b-a0c2-52bcb012f522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>55d781ad-f4a2-4729-b0f7-9291dca45b4a</webElementGuid>
+      <webElementGuid>f390ee2a-f3ee-4d5b-b070-289f9b017cda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1ec8cdcb-d506-4e69-9590-523ca71f1414</webElementGuid>
+      <webElementGuid>ea1986c9-a0e4-4267-8925-13afab5ce9a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_opening_balance&quot;)</value>
-      <webElementGuid>78ae2928-1a22-487b-b8be-2788975004db</webElementGuid>
+      <webElementGuid>5e50b17a-7058-44b3-a7ac-fa273b8cc46b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ffInput_opening_balance']</value>
-      <webElementGuid>9c1df9c3-4370-4227-ba68-bce73e84ede4</webElementGuid>
+      <webElementGuid>f61565d9-981e-447c-925a-0417f9955771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='opening_balance_holder']/div/input</value>
-      <webElementGuid>75fce8cb-78c9-46af-a396-b8dde5a4f6c2</webElementGuid>
+      <webElementGuid>dd2c959a-b839-4f29-b836-f235921b3d73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/input</value>
-      <webElementGuid>0f62c110-795a-44cb-870e-23a913f49ee8</webElementGuid>
+      <webElementGuid>bea698d1-394f-402d-a08a-3425a1d9036f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'opening_balance' and @id = 'ffInput_opening_balance']</value>
-      <webElementGuid>d5b66277-5aff-4149-bcfe-67608a6fb4e9</webElementGuid>
+      <webElementGuid>4123b5de-48f3-426e-b78c-50ba11cf7292</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

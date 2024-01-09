@@ -29,9 +29,7 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.13/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.13/h4_New liability'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.13/input_Include in net worth_include_net_worth'))
-
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.13/input_Include in net worth_include_net_worth'))
+WebUI.doubleClick(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.13/input_Include in net worth_include_net_worth'))
 
 actual_value = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.13/input_Include in net worth_include_net_worth'), 
     'value')

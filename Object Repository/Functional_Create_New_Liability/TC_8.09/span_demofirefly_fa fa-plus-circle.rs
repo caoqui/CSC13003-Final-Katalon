@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d1873105-6d8a-41d4-aa78-e8817d2ed3ae</webElementGuid>
+      <webElementGuid>5da419b9-dcc4-4074-8df2-6a4a52f329bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-plus-circle</value>
-      <webElementGuid>82393db5-9bda-4603-816f-f056d22b6d7b</webElementGuid>
+      <webElementGuid>ab3c772b-f1ff-4aea-bf1d-477807b0af0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-toggle&quot;)/a[1]/span[@class=&quot;fa fa-plus-circle&quot;]</value>
-      <webElementGuid>3673a1e9-dc6f-47b4-9c39-7fd912bedfd9</webElementGuid>
+      <webElementGuid>11866263-792b-47d7-adf2-906b0ed16693</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='sidebar-toggle']/a/span</value>
-      <webElementGuid>21ed99c9-9130-4731-bc9e-1d80598b4369</webElementGuid>
+      <webElementGuid>291817ff-0246-4264-a5e6-41be7f7d7873</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span</value>
-      <webElementGuid>87546d09-02f7-4ebf-b442-f58afd58d7ab</webElementGuid>
+      <webElementGuid>f8939668-8b36-4591-9e86-575671cbad0a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

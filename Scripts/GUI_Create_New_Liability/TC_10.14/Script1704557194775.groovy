@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.14/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.14/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.14/textarea_Notes_notes'), 'European shelduck')
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.14/textarea_Notes_notes'), 'Little blue penguin')
 
 actual_notes = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.14/textarea_Notes_notes'), 
     'value')

@@ -31,5 +31,10 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.5/
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.5/input_Skip_skip'), 'abc')
 
+actual_skips = WebUI.getAttribute(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.5/input_Skip_skip'), 
+    'value')
+
+WebUI.verifyEqual(actual_skips, expected_skips)
+
 WebUI.closeBrowser()
 

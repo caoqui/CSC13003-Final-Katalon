@@ -25,7 +25,7 @@
       <name>actual_BIC</name>
    </variable>
    <variable>
-      <defaultValue>'40.15.41.210'</defaultValue>
+      <defaultValue>'0.254.112.210'</defaultValue>
       <description></description>
       <id>36de85d7-8d2d-4479-8bee-2875fa8c2e76</id>
       <masked>false</masked>

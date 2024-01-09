@@ -29,10 +29,9 @@ WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.11/
 
 WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.11/h4_New liability'))
 
-WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.11/input_BIC_BIC'), '40.15.41.210')
+WebUI.setText(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.11/input_BIC_BIC'), '0.254.112.210')
 
-actual_BIC = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.11/input_BIC_BIC'), 
-    'value')
+actual_BIC = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.11/input_BIC_BIC'), 'value')
 
 WebUI.verifyEqual(actual_BIC, expected_BIC)
 

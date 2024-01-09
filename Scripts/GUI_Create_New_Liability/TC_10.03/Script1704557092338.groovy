@@ -21,18 +21,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.firefly-iii.org/')
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.03/a_Demo'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.03/a_Demo'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.03/button_Sign in'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.03/button_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.03/span_demofirefly_fa fa-plus-circle'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.03/span_demofirefly_fa fa-plus-circle'))
 
-WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.03/h4_New liability'))
+WebUI.click(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.03/h4_New liability'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.03/select_Euro ()British Pound ()Hungarian for_48a2bd'), 
-    '8', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.03/select_Chinese yuan ()Euro ()British Pound _e5e925'), 
+    '1', true)
 
-actual_currency = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC-10.03/select_Euro ()British Pound ()Hungarian for_48a2bd'), 
+actual_currency = WebUI.getAttribute(findTestObject('Object Repository/GUI_Create_New_Liability/TC_10.03/select_Chinese yuan ()Euro ()British Pound _e5e925'), 
     'value', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyEqual(actual_currency, expected_currency)

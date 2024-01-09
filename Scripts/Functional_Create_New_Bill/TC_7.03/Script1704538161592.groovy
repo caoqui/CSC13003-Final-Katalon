@@ -31,5 +31,10 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Bill/TC_7.3/
 
 WebUI.setText(findTestObject('Page_Create new bill  Bills  Firefly III/input_Maximum amount_amount_max'), 'abc')
 
+actual_minimum = WebUI.getAttribute(findTestObject('Page_Create new bill  Bills  Firefly III/input_Maximum amount_amount_max'), 
+    'value')
+
+WebUI.verifyEqual(actual_minimum, expected_minimum)
+
 WebUI.closeBrowser()
 

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_BIC_BIC</name>
    <tag></tag>
-   <elementGuidId>a7cca86f-3440-46c6-a63d-fe707f87d890</elementGuidId>
+   <elementGuidId>e8ce7b39-6400-49e8-882f-c38256f53331</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b5a11896-0a7a-4a17-ab24-9fdb10711dda</webElementGuid>
+      <webElementGuid>7ba98033-e657-4753-85e7-2ec45455381f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>05370dc4-4b1d-4304-ab96-a146d9c39c59</webElementGuid>
+      <webElementGuid>ddec6413-4030-4e61-b712-8499cf650def</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cf8dfef2-3655-4ed0-8b75-1717604167d1</webElementGuid>
+      <webElementGuid>cb1e82a4-9290-4abc-bdd2-62c1234a401b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>BIC</value>
-      <webElementGuid>baa35301-cddc-4358-a5c6-7cca81d97950</webElementGuid>
+      <webElementGuid>9a855fb6-5fc8-4b44-bf27-1ee8244bfee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_BIC</value>
-      <webElementGuid>f51b0ff2-01fe-496e-afe0-11cd6659ccac</webElementGuid>
+      <webElementGuid>7fc16b49-4c96-4964-90d7-1992637f5fcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>9574e76c-d194-49e0-ab0e-6371eead56f3</webElementGuid>
+      <webElementGuid>6ce8f966-ef75-445e-b6d7-d09e31fd8852</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>63a4fcd4-93b3-40b6-949d-a1c4d0c0c76f</webElementGuid>
+      <webElementGuid>8e8c89e1-2c40-415d-bb68-3a137a971d8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>BIC</value>
-      <webElementGuid>31cd9b65-a025-4dc9-a2b6-d24819d09cd7</webElementGuid>
+      <webElementGuid>01b25664-ecf0-47d1-8298-08aa35b70838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_BIC&quot;)</value>
-      <webElementGuid>65810706-f746-425b-bc88-da33f5dd4ed0</webElementGuid>
+      <webElementGuid>02a61587-1bc6-4a5e-8e4e-b6028e1813d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ffInput_BIC']</value>
-      <webElementGuid>81f75ca4-00b4-44e4-938b-ce7545e9114a</webElementGuid>
+      <webElementGuid>1a045160-0c6c-4018-bb89-288da0e5d9dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='BIC_holder']/div/input</value>
-      <webElementGuid>c747820c-7939-41cd-b3c9-e8bf5947b38a</webElementGuid>
+      <webElementGuid>052daf06-895a-4534-aaa2-be36ea5d3ea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>2f82661d-7d8d-4f6b-8447-3444bded2b13</webElementGuid>
+      <webElementGuid>a5a51ce7-60cf-4575-9d59-e382c7d2f8c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'BIC' and @id = 'ffInput_BIC' and @placeholder = 'BIC']</value>
-      <webElementGuid>704ded10-898e-49b5-a6c4-852d042854c2</webElementGuid>
+      <webElementGuid>7fe8dfe1-7806-443a-b454-92ac781816e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

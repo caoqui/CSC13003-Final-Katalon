@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Attachments_attachments</name>
    <tag></tag>
-   <elementGuidId>6eb3c206-e015-4566-9119-5682f025c452</elementGuidId>
+   <elementGuidId>c88fe471-c999-4163-b33b-30d334cd2ad0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>09251e33-6496-435d-a79d-15b61b82196f</webElementGuid>
+      <webElementGuid>989c5c82-1ae8-449e-9925-7d032ce2bcec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>8c8fac1a-b9a9-4f27-b28f-51f0c1274eae</webElementGuid>
+      <webElementGuid>486d1425-d61c-43d2-a58b-8b51d5f95144</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>18d60f03-f173-406f-b4f9-56a2d82100f1</webElementGuid>
+      <webElementGuid>a1b925a7-0b05-4f43-aa80-e568e8d972be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>attachments[]</value>
-      <webElementGuid>5c8c3bac-02cb-440f-976d-cae39a887e08</webElementGuid>
+      <webElementGuid>0c63a24d-f4cf-4d35-864d-bf638f7d90cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_attachments</value>
-      <webElementGuid>f430b0f9-efea-4b5f-bcbb-2d40e7a2991c</webElementGuid>
+      <webElementGuid>1d3bed02-a405-4c45-97c1-ff6af184a425</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>f63ae6ff-3237-40c0-9615-27d880b0408a</webElementGuid>
+      <webElementGuid>2b88968d-8a19-4d81-a387-d9d8d72bcea2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_attachments&quot;)</value>
-      <webElementGuid>d07421b0-0593-4304-b080-6a723b3ba805</webElementGuid>
+      <webElementGuid>6e258e3b-7971-461a-bac8-7753a2aed9ba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ffInput_attachments']</value>
-      <webElementGuid>ba46fb3d-5291-4a2d-a791-4634b50d94f7</webElementGuid>
+      <webElementGuid>257e759b-ac6c-4eb8-82d6-68ee7d3a81dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='attachments[]_holder']/div/input</value>
-      <webElementGuid>16c23aa6-7e23-4c03-8a43-808e45b955ee</webElementGuid>
+      <webElementGuid>54580f59-b9d6-4396-981b-ef0abe82aff1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/input</value>
-      <webElementGuid>7a0350e2-2f76-466e-80f8-d15b3650f6f9</webElementGuid>
+      <webElementGuid>30e3c16d-b069-49a6-9b0d-668f1dba0c80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file' and @name = 'attachments[]' and @id = 'ffInput_attachments']</value>
-      <webElementGuid>65bb2eb2-f762-4fd2-a74b-3ff7b98391ca</webElementGuid>
+      <webElementGuid>a3b72431-0cfc-492e-99b7-e812608e6fcb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

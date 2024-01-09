@@ -25,7 +25,7 @@
       <name>actual_notes</name>
    </variable>
    <variable>
-      <defaultValue>'European shelduck'</defaultValue>
+      <defaultValue>'Little blue penguin'</defaultValue>
       <description></description>
       <id>84e60649-77d6-4091-8a79-9c31264b34ae</id>
       <masked>false</masked>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>aa40905c-5833-45a4-a843-49999bc4f8b9</webElementGuid>
+      <webElementGuid>2c54b933-9b32-499d-a487-ad1a8943e11d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>168c33f9-cace-4a68-9d11-2660d03cff10</webElementGuid>
+      <webElementGuid>a0692680-ecd1-42bb-9b5f-843df23685b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>803d81a1-1238-4f03-ab29-6176a6180b75</webElementGuid>
+      <webElementGuid>e2061484-5031-4f5d-9bde-f3d187ef49eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>opening_balance_date</value>
-      <webElementGuid>c17c7888-50ed-4817-ab1f-94735d3b4a25</webElementGuid>
+      <webElementGuid>7165731e-31ba-4ba7-af00-1d66eac9684a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ffInput_opening_balance_date</value>
-      <webElementGuid>4df92ab9-792d-4649-b7ab-f6fcabd716db</webElementGuid>
+      <webElementGuid>0acc14de-7d04-4146-9f79-0f337e6ff893</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>bf43adfe-7531-4ccd-be66-2ad6e62146e5</webElementGuid>
+      <webElementGuid>144ae1d6-1f42-494c-924b-fed8db2b22a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1592f9b8-e0f1-4559-ae92-6ec8f51360de</webElementGuid>
+      <webElementGuid>c9a03542-3883-47f1-be19-143fc4bc9a87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ffInput_opening_balance_date&quot;)</value>
-      <webElementGuid>49fadc81-efe9-461a-84a7-32354c61f249</webElementGuid>
+      <webElementGuid>588e99c3-ba74-4747-a989-2e772c52d1d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ffInput_opening_balance_date']</value>
-      <webElementGuid>2bad24b5-96e8-4b54-a186-f0377fca3cf3</webElementGuid>
+      <webElementGuid>2c136776-8498-43b9-bf01-90905d793b7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='opening_balance_date_holder']/div/div/input</value>
-      <webElementGuid>b5114b35-697f-422a-abf7-ebef6d74789e</webElementGuid>
+      <webElementGuid>c240d021-96d4-411c-8a92-1a2e5c3b08ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/input</value>
-      <webElementGuid>ab5ac055-6be1-4601-9682-43b7ff918017</webElementGuid>
+      <webElementGuid>4a783a1e-ff06-4382-a516-15b30a617a64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'date' and @name = 'opening_balance_date' and @id = 'ffInput_opening_balance_date']</value>
-      <webElementGuid>0260af77-3175-45cf-8bce-87da314bc038</webElementGuid>
+      <webElementGuid>1a0f7c54-1aca-4c59-8664-ccce4c4a38ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

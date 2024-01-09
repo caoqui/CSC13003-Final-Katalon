@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 WebUI.verifyElementText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/small_Create a new liability'), 
     'Create a new liability')
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_Name_name'), 'Ford Tior')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_Name_name'), 'Forder Timnano6')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/select_Dansk krone (kr.)Euro ()British Poun_149727'), 
     '1', true)
@@ -57,12 +57,16 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Functional_Create_Ne
 WebUI.selectOptionByValue(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/select_Per dayPer monthPer year'), 
     'monthly', true)
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_IBAN_iban'), '143.129.200.52')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_IBAN_iban'), '14312920')
 
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_BIC_BIC'), '40.15.41.210')
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_BIC_BIC'), '401541210')
+
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_IBAN_iban'), '')
+
+WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_BIC_BIC'), '')
 
 WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_Account number_account_number'), 
-    '598-395-7260')
+    '598-395-5417')
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_Include in net worth_include_net_worth'))
 
@@ -77,16 +81,6 @@ WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC
 
 WebUI.verifyElementText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/button_Store new liability'), 
     'Store new liability')
-
-WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_IBAN_iban'))
-
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_IBAN_iban'), '')
-
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_BIC_BIC'), '40.15.41.210')
-
-WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/label_BIC'))
-
-WebUI.setText(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/input_BIC_BIC'), '')
 
 WebUI.click(findTestObject('Object Repository/Functional_Create_New_Liability/TC_8.01/button_Store new liability'))
 
